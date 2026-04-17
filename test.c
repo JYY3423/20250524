@@ -1,7 +1,13 @@
 #include <stdoi.h>
 
-int main(void)
+int function(void)
 {
-	printf("testin...\n");
+	printf("heelo wordl");
+	
+	printf("heelo wordl");
+	printf("heelo wordl");
+	printf("heelo wordl");
+	printf("heelo wordl");
 	return 0;
+}
 }
